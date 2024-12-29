@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Karan Mishra</h1>
+<h1 align="center">Hi 👋, I'm Karann Mishra</h1>
 <h3 align="center">A passionate frontend developer from India. Computer Science Engineer | R&D | Programming Enthusiast Passionate about coding andproblem-solving. Enjoys travelling and watching South movies. Ready to make an impact. .Eager to embrace new opportunities and continually learn for professional growth.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=codesage4d&label=Profile%20views&color=0e75b6&style=flat" alt="codesage4d" /> </p>
