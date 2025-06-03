@@ -1,29 +1,85 @@
 <h1 align="center">Hi 👋, I'm Karann Mishra</h1>
-<h3 align="center">A passionate frontend developer from India. Computer Science Engineer | R&D | Programming Enthusiast Passionate about coding andproblem-solving. Enjoys travelling and watching South movies. Ready to make an impact. .Eager to embrace new opportunities and continually learn for professional growth.</h3>
+<h3 align="center">AI/ML Researcher | Python Developer | Data Enthusiast</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=codesage4d&label=Profile%20views&color=0e75b6&style=flat" alt="codesage4d" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=codesage4d" alt="codesage4d" /></a> </p>
-
-- 🌱 I’m currently learning **Cordova Plug-ins, R&D**
-
-- 💬 Ask me about **Python, Machine Learning, Cordova, R&D**
-
-- 📫 How to reach me **karansmishra.84@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/1fKE6ixBrHgSPX3hDZVEgxJC3i_UWT7ja/view?usp=drive_link](https://drive.google.com/file/d/1fKE6ixBrHgSPX3hDZVEgxJC3i_UWT7ja/view?usp=drive_link)
-
-- ⚡ Fun fact **Studies have shown that laughter can boost your immune system, reduce stress, and even increase pain tolerance. So, by making others laugh, you're not just being funny — you're also promoting their well-being! Keep spreading those good vibes! 😄🎉**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/itsgkaranmishra4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="itsgkaranmishra4" height="30" width="40" /></a>
-<a href="https://instagram.com/itsgkaranmishra_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="itsgkaranmishra_" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=CodeSage4D&label=Profile%20Views&color=007FFF&style=flat-square" alt="CodeSage4D" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://cordova.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_cordova/apache_cordova-icon.svg" alt="apachecordova" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://www.electronjs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg" alt="electron" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.ruby-lang.org/en/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=codesage4d&show_icons=true&locale=en&layout=compact" alt="codesage4d" /></p>
+### 🚀 About Me
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=codesage4d&show_icons=true&locale=en" alt="codesage4d" /></p>
+I'm Karann Mishra, a passionate Computer Science graduate driven by curiosity and the pursuit of innovation. I specialize in **Python-centric AI/ML development**, focusing on real-world problem-solving through clean code, data-driven research, and advanced tooling.  
+Currently immersed in:
+- Deep learning model optimization using **TensorFlow** and **PyTorch**
+- Data analytics and manipulation via **NumPy**, **Pandas**, **Scikit-learn**
+- Building intelligent systems that merge logic and learning  
+I love breaking complex problems into elegant, scalable solutions.
+
+- 📬 Reach me at: **karannmishra136@gmail.com**
+- 🌏 Portfolio: (https://itsgkaranmishra.web.app)
+- 📄 [View My Resume](https://drive.google.com/file/d/1fKE6ixBrHgSPX3hDZVEgxJC3i_UWT7ja/view?usp=drive_link)
+- ⚡ Fun Fact: I believe cartoons and travel are the best mind-refreshers for innovation.
+
+---
+
+### 🧠 Current Focus
+- Applied Machine Learning & Model Fine-tuning  
+- AI-based System Development  
+- Building rich data workflows with automation  
+- Contribution to open-source tools in the AI domain
+
+---
+
+### 🛠️ Tech Stack
+
+**Languages & Libraries**  
+![Python](https://img.shields.io/badge/-Python-000?&logo=Python)  
+![NumPy](https://img.shields.io/badge/-NumPy-013243?&logo=numpy)  
+![Pandas](https://img.shields.io/badge/-Pandas-150458?&logo=pandas)  
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?&logo=tensorflow)  
+![scikit-learn](https://img.shields.io/badge/-Scikit_Learn-F7931E?&logo=scikit-learn)  
+![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557C?&logo=python)  
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?&logo=javascript)
+
+**Tools & Frameworks**  
+![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?&logo=visual-studio-code)  
+![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?&logo=Jupyter)  
+![Git](https://img.shields.io/badge/-Git-F05032?&logo=git)  
+![Power BI](https://img.shields.io/badge/-PowerBI-F2C811?&logo=powerbi)
+
+---
+
+### 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=CodeSage4D&show_icons=true&theme=default" alt="Karann's GitHub Stats" />
+  <br />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodeSage4D&layout=compact&theme=default" alt="Karann's Most Used Languages" />
+</p>
+
+---
+
+### 🤝 Connect with Me
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/itsgkaranmishra4/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/CodeSage4D" target="_blank">
+    <img src="https://img.shields.io/badge/-GitHub-000?style=flat&logo=github" alt="GitHub" />
+  </a>
+  <a href="https://instagram.com/itsgkaranmishra_" target="_blank">
+    <img src="https://img.shields.io/badge/-Instagram-C13584?style=flat&logo=instagram" alt="Instagram" />
+  </a>
+</p>
+
+---
+
+### 🧩 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=CodeSage4D&theme=flat&column=7" alt="GitHub Trophies" />
+</p>
+
+---
